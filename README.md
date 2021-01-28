@@ -5,4 +5,5 @@ Unique features include:
 - routing in between log in/sign up pages
 - google fonts
 
-https://github.com/Nathiington/Login-UI/blob/master/flutter_01.png
+
+https://github.com/Nathiington/Login-UI/blob/master/flutter_01.png?raw=true
